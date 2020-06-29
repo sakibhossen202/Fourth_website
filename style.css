@@ -3,3 +3,17 @@ p{
     display:inline;
     font-size:2em;
 }
+.img{
+    width: 600px;
+    margin-top: 10;
+    padding-top: 25px;
+
+}
+.search{
+    width:50px;
+}
+p.parliament_discript{
+    background-color: white;
+    font-size: 1em;
+    margin-bottom: 15px;
+}
