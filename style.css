@@ -17,3 +17,15 @@ p.parliament_discript{
     font-size: 1em;
     margin-bottom: 15px;
 }
+
+.tiger{
+    font-size: 1em;
+    background-color: white;
+    padding-bottom:125px;
+}
+.royal{
+    padding-top:25px;
+    width: 700px;
+    display:block;
+    padding-bottom: 50px;
+}
